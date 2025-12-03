@@ -5,3 +5,10 @@ To manage lighting, an LDR sensor measures ambient light and adjusts the interna
 Users can set their desired temperature using two buttons—one for increasing and one for decreasing the target temperature. The temperature control system engages only when the room temperature is below the set value, ensuring energy efficiency.
 
 Overall, this system intelligently manages room temperature and lighting, promoting automation and sustainability in indoor environments.
+
+
+Team Members
+
+Thushantha Dasun,
+Dhanuja Chandrarathna,
+Shehana Kavindi
